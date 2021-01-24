@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570742408 source:c:\users\burakdursun\desktop\codeblocks-17.12mingw-nosetup\project\prolab19-20\main.c
+	<stdio.h>
+	<stdlib.h>
+

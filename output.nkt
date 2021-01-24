@@ -1,0 +1,106 @@
+
+*****************************************
+Islem yapilan dosya :a.nkt
+***********************************************
+SECIM1
+Nokta sayilari dogru
+
+*****************************************
+Islem yapilan dosya :a1.nkt
+!!!! HATALI DOSYA !!!!
+
+*****************************************
+Islem yapilan dosya :binaryXYZ.nkt
+
+*****************************************
+Islem yapilan dosya :binaryXYZRGB.nkt
+
+*****************************************
+Islem yapilan dosya :problemli.nkt
+!!!! HATALI DOSYA !!!!
+
+*****************************************
+Islem yapilan dosya :testVerileri.nkt
+
+*****************************************
+Islem yapilan dosya :veriler1.nkt
+***********************************************
+SECIM1
+3. satirda R G B degerleri eksik.
+5. satirda R G B degerleri eksik.
+8. satirda R G B degerleri eksik.
+Nokta sayilari dogru
+
+*****************************************
+Islem yapilan dosya :veriler2.nkt
+***********************************************
+SECIM1
+Nokta sayilari dogru
+
+*****************************************
+Islem yapilan dosya :a.nkt
+***********************************************
+SECIM1
+Nokta sayilari dogru
+***********************************************
+SECIM1
+Nokta sayilari dogru
+
+*****************************************
+Islem yapilan dosya :a1.nkt
+!!!! HATALI DOSYA !!!!
+
+*****************************************
+Islem yapilan dosya :binaryXYZ.nkt
+***********************************************
+SECIM1
+HATA! 6 tane nokta var. dosyada 10 adet yaziyor.
+*****************************************
+Islem yapilan dosya :binaryXYZRGB.nkt
+***********************************************
+SECIM2
+
+En dusuk fark: 0.000000
+En yuksek fark: 2.338266
+En dusuk fark, 10 ve 11 satirdaki noktalar 
+En yuksek fark, 1 ve 10 satirdaki noktalar
+
+
+*****************************************
+Islem yapilan dosya :problemli.nkt
+!!!! HATALI DOSYA !!!!
+
+*****************************************
+Islem yapilan dosya :testVerileri.nkt
+***********************************************
+SECIM1
+HATA! 11 tane nokta var. dosyada 10 adet yaziyor.
+*****************************************
+Islem yapilan dosya :veriler1.nkt
+
+*****************************************
+SECIM4
+kureX: 100.000000
+kureY: 100.000000
+kureZ: 100.000000
+kureR: 100.000000
+2. Nokta: 68.604500  47.935200  36.789463
+7. Nokta: 53.452747  29.102415  56.612000
+11. Nokta: 88.041870  58.666180  75.770302
+12. Nokta: 85.960381  47.499275  72.927315
+13. Nokta: 81.044518  42.715878  53.829769
+17. Nokta: 30.462988  51.513645  57.398262
+18. Nokta: 2.195446  96.693008  86.416931
+19. Nokta: 84.818100  34.622929  43.810204
+20. Nokta: 88.102844  80.947456  49.660999
+21. Nokta: 74.360687  84.670792  93.830620
+22. Nokta: 26.256748  53.625286  64.569038
+24. Nokta: 76.154015  88.957130  11.963090
+25. Nokta: 77.419022  88.092613  24.470921
+34. Nokta: 23.252098  75.917953  99.735626
+35. Nokta: 88.551079  56.939526  11.891550
+38. Nokta: 88.283577  75.467934  53.680038
+39. Nokta: 19.590729  82.512802  94.929573
+
+*****************************************
+Islem yapilan dosya :a.nkt
